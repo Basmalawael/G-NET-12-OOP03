@@ -29,6 +29,7 @@
 
             #region Q2 :
             /*
+             * 
              * a) A parent class has a protected field. 
              * Can a child class in a different assembly access it?
              * What about through an object instance from outside?
